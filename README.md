@@ -90,7 +90,7 @@ A **Full Stack AI-driven Career Guidance Website** that helps users shape their 
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashantsingh30&show_icons=true&theme=tokyonight" height="160px" />
