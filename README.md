@@ -20,76 +20,6 @@ With hands-on experience in both **frontend and backend development**, I focus o
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend:**  
-React.js | Next.js | Tailwind CSS | Bootstrap | Daisy UI | Material UI  
-
-**Backend:**  
-Node.js | Express.js  | Java | SpringBoot
-
-**Database:**  
-MongoDB | Mongoose  | MySql | PostgreSQL 
-
-**Authentication & Security:**  
-JWT | Bcrypt  
-
-**Real-time & APIs:**  
-Socket.io | REST API  
-
-**Dev Tools & Deployment:**  
-Git | GitHub | Vercel | Render | Postman | VS Code  
-
----
-
-### 🚀 Featured Projects
-
-#### 🍴 [Foody Web – Online Food Ordering System](https://foody-webs.vercel.app/)
-A responsive online food ordering platform with integrated payment system.  
-**Tech Stack:** MERN | JWT | Razorpay | Bootstrap | Material UI  
-- Secure payment using Razorpay  
-- Beautiful UI with smooth user experience  
-- Hosted on Vercel (frontend) & Render (backend)  
-🔗 [GitHub Repository](https://github.com/prashantsingh30/FoodyWeb)
-
----
-
-#### 💬 [Realtime Chat App](https://github.com/prashantsingh30/Realtime-Chat-App)
-A real-time chat application built for instant and seamless communication.  
-**Tech Stack:** MERN + Socket.io + Tailwind CSS + Daisy UI  
-- Instant real-time messaging  
-- Online user status indicator  
-- JWT authentication with global state managed by Zustand  
-- Deployed on Render  
-
----
-
-#### 🧠 [AI Career Coach](https://aspir-ai.vercel.app/)
-A **Full Stack AI-driven Career Guidance Website** that helps users shape their career path with smart automation and real-time insights.  
-**Tech Stack:** Next.js | Tailwind CSS | Shadcn UI | Prisma | Neon DB (PostgreSQL) | Clerk | Gemini API | Inngest  
-
-- ✨ AI-powered resume builder & cover letter generator  
-- 📚 Topic-based MCQ practice with performance analytics  
-- 💼 Personalized career insights and latest tech trends  
-- 🔒 Secure user authentication with Clerk  
-- ⚡ Automated background updates and event handling with Inngest  
-
----
-
-### 🌱 Currently Exploring
-- Generative AI & LLM Integration  
-- Scalable Web Architecture  
-- Advanced DevOps & Cloud Hosting  
-
----
-
-### 🎯 Goals
-- Build innovative **AI-integrated web platforms**  
-- Contribute to **open-source MERN and AI projects**  
-- Continuously evolve as a **Full Stack Developer**  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -120,6 +50,28 @@ A **Full Stack AI-driven Career Guidance Website** that helps users shape their 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend:**  
+React.js | Next.js | Tailwind CSS | Bootstrap | Daisy UI | Material UI  
+
+**Backend:**  
+Node.js | Express.js  | Java | SpringBoot
+
+**Database:**  
+MongoDB | Mongoose  | MySql | PostgreSQL 
+
+**Authentication & Security:**  
+JWT | Bcrypt  
+
+**Real-time & APIs:**  
+Socket.io | REST API  
+
+**Dev Tools & Deployment:**  
+Git | GitHub | Vercel | Render | Postman | VS Code  
 
 ---
 
