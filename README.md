@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="A_professional_banner_for_Prashant_Singh_features_.png.png" alt="Prashant Singh Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Prashant Singh</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | AI Innovator</h3>
