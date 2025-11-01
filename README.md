@@ -64,12 +64,6 @@ Node.js | Express.js  | Java | SpringBoot
 **Database:**  
 MongoDB | Mongoose  | MySql | PostgreSQL 
 
-**Authentication & Security:**  
-JWT | Bcrypt  
-
-**Real-time & APIs:**  
-Socket.io | REST API  
-
 **Dev Tools & Deployment:**  
 Git | GitHub | Vercel | Render | Postman | VS Code  
 
