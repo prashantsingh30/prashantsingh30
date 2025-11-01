@@ -64,13 +64,15 @@ A real-time chat application built for instant and seamless communication.
 
 ---
 
-#### 🧠 [AI Career Coach](#)
-A Full Stack AI-driven Career Guidance Website that helps users shape their career path.  
-**Tech Stack:** MERN | OpenAI API | Tailwind CSS | Flask (AI Backend)  
-- AI-powered resume assistance & interview guidance  
-- Personalized career insights using LLM  
-- Modern UI with responsive design  
-- Role-based authentication and secure user data handling  
+#### 🧠 [AI Career Coach](https://aspir-ai.vercel.app/)
+A **Full Stack AI-driven Career Guidance Website** that helps users shape their career path with smart automation and real-time insights.  
+**Tech Stack:** Next.js | Tailwind CSS | Shadcn UI | Prisma | Neon DB (PostgreSQL) | Clerk | Gemini API | Inngest  
+
+- ✨ AI-powered resume builder & cover letter generator  
+- 📚 Topic-based MCQ practice with performance analytics  
+- 💼 Personalized career insights and latest tech trends  
+- 🔒 Secure user authentication with Clerk  
+- ⚡ Automated background updates and event handling with Inngest  
 
 ---
 
@@ -114,7 +116,7 @@ A Full Stack AI-driven Career Guidance Website that helps users shape their care
   <a href="mailto:singhprashantsuresh@gmail.com " target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://foody-webs.vercel.app/" target="_blank">
+  <a href="https://portfolio-prashantsingh30s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
