@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Prashant Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | AI Innovator</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack & Java Enthusiast | AI Innovator</h3>
 
 <p align="center">
   <a href="https://github.com/prashantsingh30">
